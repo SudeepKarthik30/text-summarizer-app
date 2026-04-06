@@ -2,7 +2,7 @@
 
 A web application that summarizes text/dialogues using the **T5 Transformer** model from HuggingFace. Built with FastAPI for the backend and a clean HTML/CSS frontend.
 
-🚀 **Live Demo:** [Summaraizer Text](https://huggingface.co/spaces/karthik0055/text-summarizer-app)
+🚀 **Live Demo:** [Summaraizer Text](https://karthik0055-text-summarizer-app.hf.space)
 
 ---
 
